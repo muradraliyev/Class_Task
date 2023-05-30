@@ -1,0 +1,15 @@
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\obj\Debug\net6.0\ClassTask2.csproj.AssemblyReference.cache
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\obj\Debug\net6.0\ClassTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\obj\Debug\net6.0\ClassTask2.AssemblyInfoInputs.cache
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\obj\Debug\net6.0\ClassTask2.AssemblyInfo.cs
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\obj\Debug\net6.0\ClassTask2.csproj.CoreCompileInputs.cache
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\bin\Debug\net6.0\ClassTask2.exe
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\bin\Debug\net6.0\ClassTask2.deps.json
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\bin\Debug\net6.0\ClassTask2.runtimeconfig.json
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\bin\Debug\net6.0\ClassTask2.dll
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\bin\Debug\net6.0\ClassTask2.pdb
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\obj\Debug\net6.0\ClassTask2.dll
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\obj\Debug\net6.0\refint\ClassTask2.dll
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\obj\Debug\net6.0\ClassTask2.pdb
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\obj\Debug\net6.0\ClassTask2.genruntimeconfig.cache
+C:\Users\muradrali\source\repos\ClassTask2\ClassTask2\obj\Debug\net6.0\ref\ClassTask2.dll
